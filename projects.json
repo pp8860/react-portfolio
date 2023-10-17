@@ -1,0 +1,20 @@
+[
+    {
+      "title": "My Portfolio",
+      "imageSrc": "projects/portFolio.ico",
+      "description": "This is my personal portfolio website which I Have made so that any one can get to know about me. Let's Connect!!",
+      "skills": ["React","HTML", "CSS", "Node"],
+      
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Music Website - Soundin",
+      "imageSrc": "projects/soundin.png",
+      "description": "This is a Music website made using purely frontend. Any one can make their own playlist there & listen to it.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+     
+      "source": "https://github.com/pp8860/SoundIn-MusicWebsite"
+    }
+    
+  ]
+  
